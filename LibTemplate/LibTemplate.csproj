@@ -4,6 +4,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <NoWarn>CS1591</NoWarn>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
